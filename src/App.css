@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+    }
+
+.app{
+    width:100%;
+}
+.nav{
+    background-color:pink;
+}
+.container{
+    display: flex;
+    justify-content: space-around;
+    width: 100%;
+    font-size: large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.me-auto{
+    display: flex;
+    justify-content: space-around;
+    width: 100%;
+}
+.form{
+    
+    width:70%;
+    margin: auto;
+    padding:150px;
+}
+.text-center{
+    margin-bottom: 0px;
+    margin-top: 100px;
+    background-color: pink;
+}
